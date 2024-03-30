@@ -1,0 +1,13 @@
+{
+    "en":{
+        "title": "Personality AI",
+        "description": " An AI that finds the personality type according to the test results.",
+        "longDescription": " In this project, our model is trained using the KNN algorithm for the results of the personality test. By using this trained model, we can predict the character type of a new user based on the test results. While working on this project, I gained experience in areas such as data analysis and model training."
+    },
+    "tr":{
+        "title": "Personality AI",
+        "description": "Test sonuçlarına göre karakter tipini bulan bir yapay zeka.",
+        "longDescription": "Bu projede modelimiz karakter testi sonuçlarının KNN algoritması kullanılması ile eğitilmiştir. Eğitilen bu modeli kullanarak yeni bir kullanıcıdan alınan test sonuçlarına göre kişinin karakter tipini tahmin edebiliriz. Bu projede çalışırken veri analizi ve model eğitme gibi alanlarda tecrübe kazandım."
+    },
+    "tags":["ai","python"]
+}
